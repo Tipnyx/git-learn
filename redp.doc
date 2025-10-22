@@ -1,0 +1,16 @@
+﻿1111
+import tipline
+
+print("啊哈哈哈哈")
+print("我是傻逼")
+
+endl
+
+class XiePeng:
+	def __init__(self):
+		self.debug = 1
+		self.deadline = 'tomorrow'
+
+	def dead():
+		if deadline == 'tomorrow':
+			print('要死了")
